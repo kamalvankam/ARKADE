@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="AddictionJPEG" size="5.000000 5.000000" />
+    <ImageTarget name="BIkeImageJPEG" size="5.000000 5.000000" />
+    <ImageTarget name="ChikenBurgerJPEG" size="5.000000 5.000000" />
+    <ImageTarget name="AppleMarkerJPEG" size="5.000000 5.000000" />
+    <ImageTarget name="ARCHECK" size="5.000000 6.666667" />
+  </Tracking>
+</QCARConfig>
